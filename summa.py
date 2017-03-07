@@ -2,9 +2,9 @@
 # implement function that multiply two numbers
 
 def summa(x, y):
-    pass
+    x * y
 
 
 def product(x, y):
-    pass
+    x + y
 
